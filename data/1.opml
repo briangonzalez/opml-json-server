@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>short-test</title>
+    <expansionState>0,1,2,3</expansionState>
+  </head>
+  <body>
+    <outline text="Hebrews, per division of St. Thomas">
+      <outline text="1. in the first part, he extols Christ’s grandeur in order to show the superiority of the New Testament over the Old; he does this by proving Christ’s pre-eminence over three sacred persons of the Old Testament:">
+        <outline text="1. the angels, by whom the law was handed down (cf. Gal. 3:19)">
+          <outline text="1. he favors Christ over the angels in this chapter">
+            <outline text="1. he shows the excellence of Christ"/>
+          </outline>
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>
